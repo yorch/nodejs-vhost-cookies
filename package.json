@@ -1,0 +1,17 @@
+{
+  "name": "vhost-cookies",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^2.19.6",
+    "connect-logger": "0.0.1",
+    "vhost": "^2.0.0"
+  }
+}
