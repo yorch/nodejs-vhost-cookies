@@ -12,6 +12,7 @@
   "dependencies": {
     "connect": "^2.19.6",
     "connect-logger": "0.0.1",
+    "cookies": "^0.4.1",
     "vhost": "^2.0.0"
   }
 }
