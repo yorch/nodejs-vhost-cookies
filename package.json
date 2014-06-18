@@ -1,13 +1,13 @@
 {
   "name": "vhost-cookies",
-  "version": "0.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Example app to test cookies sharing between subdomains of the same domain",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "",
+  "author": "Jorge Barnaby <jorge.barnaby@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "connect": "^2.19.6",
